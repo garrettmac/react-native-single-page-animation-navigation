@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/vyga/Desktop/AnimationNavigation/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/vyga/Desktop/AnimationNavigation/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/vyga/Desktop/AnimationNavigation/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
